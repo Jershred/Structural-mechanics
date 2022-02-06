@@ -1,4 +1,4 @@
-# Highly stressed cable problem (1D-2D-Finite Elements)
+# Highly stressed cable problem (1D-Finite Elements)
 ## Context
 Project carried out for the course of structural mechanics in Matlab at Polytech Lyon (France).
 
