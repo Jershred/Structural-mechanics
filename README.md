@@ -8,7 +8,7 @@ Project carried out for the course of structural mechanics in Matlab at Polytech
 
 **Grade** : /20
 
-[Report](Structural-mechanics/Report/Rapport_mecanique_des_structures.pdf) (in French)
+[Report](Report/Rapport_mecanique_des_structures.pdf) (in French)
 
 
 ## Project
